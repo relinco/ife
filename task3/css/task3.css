@@ -1,0 +1,56 @@
+* {
+	margin: 0;
+}
+
+body {
+	font-family: "Microsoft YaHei";
+	background-color:fff;
+	height: 1000px;
+}
+
+#outsideFrame
+{
+	padding: 20px;
+	overflow: hidden;
+	height: 500px;
+}
+
+div{
+	border-style: solid;
+	border-color: #999;
+	color:#000;
+}
+
+.gray{
+	background:#eee;
+}
+
+.white{
+	background:#fff;
+}
+
+.smallBox
+{
+	width: 80px;
+	height: 80px;
+	margin: 20px;
+}
+
+#leftBox{
+
+	width: 200px;
+	float: left;
+}
+
+
+
+#rightBox{
+	width: 120px;
+	float: right;
+	}
+
+
+#mediumBox{
+	margin: 0 180px 0 240px;
+	padding: 20px;
+}
